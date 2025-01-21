@@ -7,3 +7,4 @@ C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\EditorDeTexto_CSharp\Editor
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\EditorDeTexto_CSharp\Editor_de_Texto\obj\Debug\Editor_de_Texto.csproj.CoreCompileInputs.cache
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\EditorDeTexto_CSharp\Editor_de_Texto\obj\Debug\Editor_de_Texto.exe
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\EditorDeTexto_CSharp\Editor_de_Texto\obj\Debug\Editor_de_Texto.pdb
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\EditorDeTexto_CSharp\Editor_de_Texto\obj\Debug\Editor_de_Texto.Form1.resources

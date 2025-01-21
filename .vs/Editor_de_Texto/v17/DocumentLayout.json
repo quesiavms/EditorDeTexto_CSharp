@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\quesi\\OneDrive\\.Estagio_TCS\\Estagio_Courses\\EditorDeTexto_CSharp\\Editor_de_Texto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8E3EB09-F303-4A3D-807F-E40EA99EE92A}|Editor_de_Texto.csproj|c:\\users\\quesi\\onedrive\\.estagio_tcs\\estagio_courses\\editordetexto_csharp\\editor_de_texto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E3EB09-F303-4A3D-807F-E40EA99EE92A}|Editor_de_Texto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8E3EB09-F303-4A3D-807F-E40EA99EE92A}|Editor_de_Texto.csproj|c:\\users\\quesi\\onedrive\\.estagio_tcs\\estagio_courses\\editordetexto_csharp\\editor_de_texto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8E3EB09-F303-4A3D-807F-E40EA99EE92A}|Editor_de_Texto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quesi\\OneDrive\\.Estagio_TCS\\Estagio_Courses\\EditorDeTexto_CSharp\\Editor_de_Texto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\quesi\\OneDrive\\.Estagio_TCS\\Estagio_Courses\\EditorDeTexto_CSharp\\Editor_de_Texto\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAIAwwJ8BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:22:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\quesi\\OneDrive\\.Estagio_TCS\\Estagio_Courses\\EditorDeTexto_CSharp\\Editor_de_Texto\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
