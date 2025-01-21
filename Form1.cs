@@ -415,5 +415,48 @@ namespace Editor_de_Texto
             }
             pincel.Dispose();
         }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var resultado = MessageBox.Show("Tem certeza que deseja sair?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (resultado == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void DesfazerUltimaAlteracao()
+        {
+            if (richTextBox1.CanUndo) // Verifica se há algo para desfazer
+            {
+                richTextBox1.Undo();
+            }
+            else
+            {
+                MessageBox.Show("Nenhuma ação para desfazer.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void desfazerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DesfazerUltimaAlteracao();
+        }
+
+        private void RefazerAlteracao()
+        {
+            if (richTextBox1.CanRedo)
+            {
+                richTextBox1.Redo();
+            }
+            else
+            {
+                MessageBox.Show("Nenhuma ação para refazer.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void refazerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            RefazerAlteracao();
+        }
     }
 }

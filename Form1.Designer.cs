@@ -146,8 +146,9 @@
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(149, 26);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // editarToolStripMenuItem
             // 
@@ -177,14 +178,16 @@
             // desfazerToolStripMenuItem
             // 
             this.desfazerToolStripMenuItem.Name = "desfazerToolStripMenuItem";
-            this.desfazerToolStripMenuItem.Size = new System.Drawing.Size(150, 26);
+            this.desfazerToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.desfazerToolStripMenuItem.Text = "Desfazer";
+            this.desfazerToolStripMenuItem.Click += new System.EventHandler(this.desfazerToolStripMenuItem_Click);
             // 
             // refazerToolStripMenuItem
             // 
             this.refazerToolStripMenuItem.Name = "refazerToolStripMenuItem";
-            this.refazerToolStripMenuItem.Size = new System.Drawing.Size(150, 26);
+            this.refazerToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.refazerToolStripMenuItem.Text = "Refazer";
+            this.refazerToolStripMenuItem.Click += new System.EventHandler(this.refazerToolStripMenuItem_Click);
             // 
             // formatarToolStripMenuItem
             // 
